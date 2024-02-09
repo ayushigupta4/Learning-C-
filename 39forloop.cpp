@@ -10,6 +10,7 @@ int main() {
         cout << i << endl;
     }
 
+    //using variables in for loop
     for(int a=0, b=1; a>=0 && b<=n; a++, b++){
         cout << a << " " << b << endl;
     }

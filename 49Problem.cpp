@@ -1,3 +1,4 @@
+//number of currency notes
 #include<iostream>
 using namespace std;
 
