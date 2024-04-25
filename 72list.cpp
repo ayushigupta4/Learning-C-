@@ -6,7 +6,7 @@ int main() {
     list<int> l;
 
     list<int> n(l); //l is copied to n
-    list<int> k(5,100); //k initialised with 100, size=5
+    list<int> k(5,100); //k initialised with 100, size=5 
 
     l.push_back(4);
     l.push_front(5);
