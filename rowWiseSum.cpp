@@ -23,7 +23,7 @@ void printColSum(int arr[][4], int row, int col) {
             sum = sum + arr[j][i];
         }
 
-        cout << sum << endl;
+        cout << sum << " ";
     }
 }
 
