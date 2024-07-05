@@ -4,6 +4,8 @@ using namespace std;
 #define PI 3.14
 #define Max(a,b) (((a) > (b))? (a) : (b))
 
+//int score = 10; ->Global variable 
+
 int main() {
     int r = 3;
     double area = PI * r * r;
